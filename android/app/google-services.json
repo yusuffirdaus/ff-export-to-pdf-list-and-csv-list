@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "463064548543",
+    "project_id": "dowloadsapp",
+    "storage_bucket": "dowloadsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463064548543:android:3713b9c9619fe0c72b320a",
+        "android_client_info": {
+          "package_name": "com.mycompany.downloadsapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRVFTrAY0vcVD83n0aPrccTHQVx4Vqn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
